@@ -8,7 +8,7 @@ import Link from 'next/link'
 
 const Header = () => {
 	return (
-		<header className='bg-blue-400 lg:fixed lg:top-0 lg:left-0 lg:right-0 lg:bg-gradient-to-b from-[#f53d2d] to-[#f63] text-white z-10'>
+		<header className='bg-transparent absolute top-0 left-0 right-0 md:fixed lg:bg-gradient-to-b from-[#f53d2d] to-[#f63] text-white z-10 lg:shadow-lg'>
 			<nav className='hidden lg:max-w-[1200px] lg:h-[2.125rem] lg:mx-auto lg:items-center lg:justify-between lg:text-[0.8125rem] lg:flex'>
 				<div className='flex items-center gap-2'>
 					{navigation01.map((item, index) => (
@@ -53,7 +53,7 @@ const Header = () => {
 					<div className='text-3xl font-normal'>Shopee</div>
 				</div>
 
-				<div className='flex-1 lg:mt-3'>
+				<div className='flex-1 pl-5 lg:pl-0 lg:mt-3'>
 					<form className='h-9 flex flex-1 items-center bg-white rounded-sm px-2 lg:py-5 text-gray-500 max-w-[52.5rem]'>
 						<CiSearch className='w-3.5 h-3.5 lg:hidden' />
 						<input
