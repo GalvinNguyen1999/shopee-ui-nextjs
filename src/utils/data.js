@@ -184,7 +184,7 @@ export const vouchers = [
 	}
 ]
 
-export const banners = [
+export const slides = [
 	{
 		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-28c5673cb3e8897e09c6d583aed26fd4',
 		href: '/'
