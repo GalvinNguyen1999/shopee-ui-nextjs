@@ -1,18 +1,18 @@
 'use client'
 import { useEffect, useState } from 'react'
 import Image from 'next/image'
-import { banners } from '@/utils/data'
+import { slides } from '@/utils/data'
 import { BsChevronCompactRight, BsChevronCompactLeft } from 'react-icons/bs'
 
-const Banner = () => {
+const Carousel = () => {
 	const [currentIndex, setCurrentIndex] = useState(0)
 
 	const prevBanner = () => {
-		setCurrentIndex((currentIndex) => (currentIndex === 0 ? banners.length - 1 : currentIndex - 1))
+		setCurrentIndex((currentIndex) => (currentIndex === 0 ? slides.length - 1 : currentIndex - 1))
 	}
 
 	const nextBanner = () => {
-		setCurrentIndex((currentIndex) => (currentIndex === banners.length - 1 ? 0 : currentIndex + 1))
+		setCurrentIndex((currentIndex) => (currentIndex === slides.length - 1 ? 0 : currentIndex + 1))
 	}
 
 	useEffect(() => {
@@ -24,7 +24,7 @@ const Banner = () => {
 		<div className='w-full min-h-[12.5rem] md:min-h-80 lg:h-[14.6875rem] lg:flex lg:gap-1 lg:max-w-[1200px] lg:mx-auto'>
 			<div className='max-w-[1400px] h-[12.5rem] sm:h-[26.5625rem] lg:h-[14.6875rem] w-full relative group'>
 				<div
-					style={{ backgroundImage: `url(${banners[currentIndex].imgUrl})` }}
+					style={{ backgroundImage: `url(${slides[currentIndex].imgUrl})` }}
 					className='w-full h-full bg-bottom bg-cover duration-500 rounded-sm'
 				></div>
 				{/* Left Arrow */}
@@ -37,7 +37,7 @@ const Banner = () => {
 				</div>
 				<div className='absolute bottom-4 right-0 left-0'>
 					<div className='flex items-center gap-2 justify-center'>
-						{banners.map((_, i) => (
+						{slides.map((_, i) => (
 							<div
 								className={`w-3 h-3 bg-white rounded-full ${
 									currentIndex === i ? 'p-2' : 'bg-opacity-50'
@@ -68,4 +68,4 @@ const Banner = () => {
 	)
 }
 
-export default Banner
+export default Carousel
