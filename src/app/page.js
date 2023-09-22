@@ -4,8 +4,10 @@ import Voucher from '@/sections/Home/Voucher'
 export default function Home() {
 	return (
 		<>
-			<Banner />
-			<Voucher />
+			<div className='bg-transparent lg:bg-white lg:pt-[9.3125rem] shadow-sm'>
+				<Banner />
+				<Voucher />
+			</div>
 		</>
 	)
 }
