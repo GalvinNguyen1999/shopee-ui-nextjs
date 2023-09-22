@@ -1,8 +1,5 @@
 import './globals.css'
-import { Inter } from 'next/font/google'
 import Header from '@/layout/Header/Header'
-
-const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
 	title: 'Shopee Việt Nam | Mua và Bán trên ứng dụng di động hoặc website',
@@ -12,7 +9,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
 	return (
 		<html lang='en'>
-			<body className={inter.className}>
+			<body className='bg-[#f5f5f5]'>
 				<Header />
 				{children}
 			</body>

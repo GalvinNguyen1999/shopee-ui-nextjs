@@ -183,3 +183,30 @@ export const vouchers = [
 		description: 'Bắt Trend - Giá Sốc'
 	}
 ]
+
+export const banners = [
+	{
+		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-28c5673cb3e8897e09c6d583aed26fd4',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-ca75b5ddc6397291dff30c570498bfe2',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-9ce22106edcd3db17b9c4f3cb1c66769',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-bd440edc93b566ae2c166c2911f75092',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-e99b71fb205d728a71ed5c6011c27371',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-2f35a1a1530a2e99d5a096860dee4ad7',
+		href: '/'
+	}
+]
