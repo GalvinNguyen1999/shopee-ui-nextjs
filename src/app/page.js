@@ -1,4 +1,5 @@
 import Carousel from '@/sections/Home/Carousel'
+import Directory from '@/sections/Home/Directory'
 import Voucher from '@/sections/Home/Voucher'
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
 				<Carousel />
 				<Voucher />
 			</div>
+			<Directory />
 		</>
 	)
 }
