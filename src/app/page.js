@@ -1,5 +1,7 @@
 import Carousel from '@/sections/Home/Carousel'
 import Directory from '@/sections/Home/Directory'
+import FlashSale from '@/sections/Home/FlashSale'
+import SimpleBanner from '@/sections/Home/SimpleBanner'
 import Voucher from '@/sections/Home/Voucher'
 
 export default function Home() {
@@ -9,7 +11,9 @@ export default function Home() {
 				<Carousel />
 				<Voucher />
 			</div>
+			<SimpleBanner />
 			<Directory />
+			<FlashSale />
 		</>
 	)
 }
