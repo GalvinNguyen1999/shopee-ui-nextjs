@@ -313,3 +313,82 @@ export const directorys = [
 		href: '/'
 	}
 ]
+
+export const flashSales = [
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/sg-11134207-7qvdx-lh2qaxeuc3d81d_tn',
+		discount: 51,
+		price: 490000
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljm49ojmh7lg93_tn',
+		discount: 21,
+		price: 159000
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/sg-11134201-23010-p8r6173a8fmvd8_tn',
+		discount: 43,
+		price: 317400
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134601-7r98o-lla1uccz8ipi2d_tn',
+		discount: 47,
+		price: 185000
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134601-7qukw-lfdfqr36e7p1ad_tn',
+		discount: 30,
+		price: 139000
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134601-7qukw-lj6gnfd6ecjw97_tn',
+		discount: 64,
+		price: 129000
+	},
+	{
+		imgUrl:
+			'https://down-vn.img.susercontent.com/file/vn-50009109-1c0bd1e3c134247822f48571f925f875_tn',
+		discount: 10,
+		price: 1220000
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-2054e62c82140871a76579a03bd5d227_tn',
+		discount: 13,
+		price: 863000
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/1f39166b65a674b45585fd3e9a13beca_tn',
+		discount: 30,
+		price: 450000
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/sg-11134201-22120-ubv5348a65kv0b_tn',
+		discount: 46,
+		price: 285200
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/6b5c4d349018ab29fd1ed0c813545c6e_tn',
+		discount: 58,
+		price: 41000
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lk68selbt60k35_tn',
+		discount: 7,
+		price: 279000
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/sg-11134201-7qvek-ljcfi2cqy6ti13_tn',
+		discount: 47,
+		price: 141700
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-285c89459056bbc48382f1f2bff4956c_tn',
+		discount: 39,
+		price: 795000
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/4ccf14d0c36ffb6277cd9ad38a6c709f_tn',
+		discount: 9,
+		price: 730000
+	}
+]
