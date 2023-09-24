@@ -1,21 +1,19 @@
-import Carousel from '@/sections/Home/Carousel'
+import CarouselVoucher from '@/sections/Home/CarouselVoucher'
 import Directory from '@/sections/Home/Directory'
 import FlashSale from '@/sections/Home/FlashSale'
+import ShopeeMail from '@/sections/Home/ShopeeMail'
 import SimpleBanner from '@/sections/Home/SimpleBanner'
 import TopSearch from '@/sections/Home/TopSearch'
-import Voucher from '@/sections/Home/Voucher'
 
 export default function Home() {
 	return (
 		<>
-			<div className='bg-white lg:pt-[9.3125rem] shadow-sm'>
-				<Carousel />
-				<Voucher />
-			</div>
+			<CarouselVoucher />
 			<SimpleBanner />
 			<Directory />
 			<FlashSale />
 			<TopSearch />
+			<ShopeeMail />
 		</>
 	)
 }

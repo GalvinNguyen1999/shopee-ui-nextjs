@@ -16,7 +16,7 @@ const TopSearch = () => {
 			</div>
 			<div className='px-1.5 pb-2.5 flex items-center overflow-y-hidden overflow-x-auto whitespace-nowrap gap-1 lg:gap-3 lg:py-5'>
 				{topSearchs.map((topSearch, i) => (
-					<div className='border'>
+					<div className='border' key={i}>
 						<Link href='/' className='relative rounded-lg'>
 							<div
 								className='relative bg-no-repeat bg-center bg-contain h-[7.5rem] w-[9.375rem] md:w-[18.625rem] lg:w-[11.25rem] lg:h-[11.25rem]'
