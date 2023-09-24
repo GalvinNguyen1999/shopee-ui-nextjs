@@ -435,3 +435,101 @@ export const topSearchs = [
 		sold: 63
 	},
 ]
+
+export const shopeeMailSliders = [
+	{
+		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-7c218ea5e29a65ee222ecd04b4427c27',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-390a21ba3b0aedcf316ce3b335344c08',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-b27921b0982a7a1415fa2f975e847598',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-0b6322f0c381e440d8024098fde40460',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-d123e4ef26bece59aaa21e132afa0500',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-e1c952ad7d1eaeb4baeeea44bd569813',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://cf.shopee.vn/file/vn-50009109-6291db198df7878ddf44086bb9800893',
+		href: '/'
+	},
+]
+
+export const shopeeMails = [
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-b08f360a1958ea01dbf1bc304a188b9e',
+		description: ''
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-7883237b769db9e055b88ce35a9f8098_xxhdpi',
+		description: 'Giảm đến 4 triệu'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-cebfae17cd5979d823fb74ac79a922fa_xxhdpi',
+		description: 'Mua là có quà'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-e8e0b80b57828bee61eb7e31c3d83765_xxhdpi',
+		description: 'Giảm đến 50%'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/be40023a9d9cff397a470460bc7a924d_xxhdpi',
+		description: 'Deli siêu sale'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-7e80ab64bdc989f5c0862ed828f343a2_xxhdpi',
+		description: 'Ưu đãi đến 50%'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-079ef6ec5c89b6a436c4455226841cd6_xxhdpi',
+		description: 'Mua là có quà'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-08a87dd1e828b4bef31dafa67d5300ec_xxhdpi',
+		description: 'Quà mọi đơn'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-0be3ac214d6174200ed4f3096a0faa9a_xxhdpi',
+		description: 'Voucher 100k'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-06fb832ef52b45481158c26831cc459b_xxhdpi',
+		description: 'Thời trang -50%'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/5fb3f7b359a582f322ea39313e10260b_xxhdpi',
+		description: 'Mua 1 tặng 1'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-5d6b20755f4ef36cf1f73d431c819c9e_xxhdpi',
+		description: 'Mua là có quà'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-b44bb96f2e16efe70badc41661365c8a_xxhdpi',
+		description: 'Mua 1 tặng 1'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/3b18e2ec25c1f5c2a0ee9c9499a3ca0b_xxhdpi',
+		description: 'Giảm đến 40%'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-87186ed98227adab30afbe0f244f49a4_xxhdpi',
+		description: 'Giảm đến 50%'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-7ce7d5800afb2b6c80a7242236ec7409_xxhdpi',
+		description: 'Mua là có quà'
+	},
+]
