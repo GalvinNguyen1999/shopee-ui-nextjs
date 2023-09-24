@@ -8,7 +8,7 @@ import Link from 'next/link'
 
 const Header = () => {
 	return (
-		<header className='bg-transparent absolute top-0 left-0 right-0 md:fixed lg:bg-gradient-to-b from-[#f53d2d] to-[#f63] text-white z-10 lg:shadow-lg'>
+		<header className='bg-transparent absolute top-0 left-0 right-0 md:fixed lg:bg-gradient-to-b from-[#f53d2d] to-[#f63] text-white z-50 lg:shadow-lg'>
 			<nav className='hidden lg:max-w-[1200px] lg:h-[2.125rem] lg:mx-auto lg:items-center lg:justify-between lg:text-[0.8125rem] lg:flex'>
 				<div className='flex items-center gap-2'>
 					{navigation01.map((item, index) => (

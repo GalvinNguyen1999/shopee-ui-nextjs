@@ -392,3 +392,46 @@ export const flashSales = [
 		price: 730000
 	}
 ]
+
+export const topSearchs = [
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/b58f396b2a2f80d501ddc9803ace1bda',
+		name: 'Gậy Bẻ Tập Cơ Tay',
+		sold: 149
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/96ebd654d5f96234c688dffdc5702a71',
+		name: 'Cuộn Len',
+		sold: 241
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/4f5eafd68fa4d9530c5d613a47aed57a',
+		name: 'Kẹp Tóc Càng Cua',
+		sold: 63
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/d4e12493164f7c25783c5a5769e1addf',
+		name: 'Mi Giả',
+		sold: 81
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/9732f3a9a114c3a9c2586966fb573e33',
+		name: 'Ruột Sổ Còng',
+		sold: 69
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/63d7bef820b88a57b5ae4713eb2d20d7',
+		name: 'Áo Thun Local Brand',
+		sold: 56
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/dc04a555685a9720d9da6655217a224f',
+		name: 'Bình Giữ Nhiệt',
+		sold: 54
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/68d165822dd5cf86ba275388939227ff',
+		name: 'Súp Thưởng Cho Mèo',
+		sold: 63
+	},
+]
