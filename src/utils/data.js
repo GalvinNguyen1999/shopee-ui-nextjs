@@ -533,3 +533,150 @@ export const shopeeMails = [
 		description: 'Mua là có quà'
 	},
 ]
+
+export const todaySuggestions = [
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-llxf1rdb5dcv40_tn',
+		discountTag: 50,
+		description: 'Túi xách nữ xinh cá tính túi nữ đeo chéo đẹp dáng cực sang chảnh kiểu dáng Hàn Quốc siêu xinh TN05',
+		discountLabel: 7,
+		price: 150000,
+		sold: 46
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/cbe41f95d7d2ecc56483b0af7fa365a1_tn',
+		discountTag: 50,
+		description: '2 cái / bộ kẹo màu kim loại rỗng kẹp tóc gãy tóc bên tóc mái mỏ vịt phụ kiện tóc',
+		discountLabel: 1,
+		price: 8500,
+		sold: 2900
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/43fdf73411ff1ad857c3ed49c146d805_tn',
+		discountTag: 51,
+		description: '🌹(BIG SIZE) -Túi Đựng Quần Áo Khung Thép - Gấp gọn tiện lợi, bảo quản quần áo bền đẹp',
+		discountLabel: '',
+		price: 49000,
+		sold: 2400
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/cn-11134211-7qukw-lkezjvxarxrq34_tn',
+		discountTag: '42',
+		description: 'Velishy 1x mini finger board skateboard novelty kids boys girls girls toy gift for party 3.7 "',
+		discountLabel: '2',
+		price: 2500,
+		sold: 3400
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/b97b1f0bad5d650ac517699fa3efb9b2_tn',
+		discountTag: '38',
+		description: '[ Loại Dày] Dao Phượt Xếp Đa Năng Hình Thẻ ATM - Dao Gấp Xếp Gọn - Cao Cấp - Bỏ Ví Bóp Nam"',
+		discountLabel: '4',
+		price: 5000,
+		sold: 1400
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-llwczoelc1y7bd_tn',
+		discountTag: '60',
+		description: 'Áo Khoác Nỉ Unisex Phối Kẻ Sọc Cực Năng Động Form To Rộng Siêu Hot A22',
+		discountLabel: '7',
+		price: 2000,
+		sold: 115
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-llu5lv5616n3af_tn',
+		discountTag: '43',
+		description: 'Đèn ngủ hình mặt trăng 3d ấm áp ban đêm thích hợp làm quà tặng sinh nhật',
+		discountLabel: '10',
+		price: 19999,
+		sold: 3800
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/a74b9a1738849be6b7c24385108948ff_tn',
+		discountTag: '43',
+		description: 'Bộ thun polo logo ngực form rộng tay lỡ phong cách trẻ trung năng động AO8',
+		discountLabel: '10',
+		price: 19999,
+		sold: 3800
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkqeca8ft96o00_tn',
+		discountTag: '43',
+		description: 'Đế treo đa năng cho camera',
+		discountLabel: '10',
+		price: 19999,
+		sold: 3800
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-llu6rjeg5o7z27_tn',
+		discountTag: '43',
+		description: '25 TAB KALIMBA Tập sổ tay hướng dẫn chỉnh âm đàn kalimba Tip kalimba, Hint Kalimba',
+		discountLabel: '10',
+		price: 19999,
+		sold: 3800
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ll1u1q7c5rrf83_tn',
+		discountTag: '43',
+		description: 'Chân váy bò xẻ tà phá cách năng động thời trang cá tính phù hợp đi học đi chơi CV5',
+		discountLabel: '10',
+		price: 19999,
+		sold: 3800
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/sg-11134201-22120-79gx68c6k4kvf5_tn',
+		discountTag: '43',
+		description: 'Bộ thun mặc ở nhà chất liệu cotton mát mẻ mùa hè AO17',
+		discountLabel: '10',
+		price: 19999,
+		sold: 3800
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-llepsuvqxm0m2d_tn',
+		discountTag: '43',
+		description: 'Set dao cạo râu và 36 lưỡi dao kép chính hiệu Luxury, tặng kèm tuýp kem cạo râu, giúp bạn cạo không đau, sảng khoái',
+		discountLabel: '10',
+		price: 19999,
+		sold: 3800
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lg7u2m5jp9fb9f_tn',
+		discountTag: '43',
+		description: 'Sét 45 chiếc móc nhôm người lớn',
+		discountLabel: '10',
+		price: 19999,
+		sold: 3800
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/f10975d188a6a1bb9c5a1268afdf55fe_tn',
+		discountTag: '43',
+		description: '[ Hàng khuyến mãi] Kem Đánh Răng P/S Bảo Vệ 123 Trà Xanh (30g) 50g)',
+		discountLabel: '10',
+		price: 19999,
+		sold: 3800
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lj7ans15owk28e_tn',
+		discountTag: '43',
+		description: 'Kẹp Tóc Mỏ Vịt Nhỏ Màu Cà Phê Trà Sữa Phong Cách Retro Hàn Quốc 2023',
+		discountLabel: '10',
+		price: 19999,
+		sold: 3800
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-limg15asbu30df_tn',
+		discountTag: '43',
+		description: 'Áo thun Raglan chữ G, áo thun Nam Nữ Unisex Cotton Retro Hàn Quốc GTM 2023',
+		discountLabel: '10',
+		price: 19999,
+		sold: 3800
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/48ecc23cb299bcd6c1aa9b0b65229379_tn',
+		discountTag: '43',
+		description: 'Tai Nghe Chụp Tai F10 Plus Headphone Nghe Nhạc Cực Hay Âm Bass Mạnh Mẽ, Tai Nghe Chụp Tai Có Dây Bảo Hành 12 Tháng',
+		discountLabel: '10',
+		price: 19999,
+		sold: 3800
+	},
+]
