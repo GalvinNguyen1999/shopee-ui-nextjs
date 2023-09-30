@@ -680,3 +680,842 @@ export const todaySuggestions = [
 		sold: 3800
 	},
 ]
+
+export const policys = [
+	{
+		href: '/',
+		title: 'CHÍNH SÁCH BẢO MẬT',
+		iconUrl: 'https://down-vn.img.susercontent.com/file/8ee559562d123cf132a7cec374784442'
+	},
+	{
+		href: '/',
+		title: 'QUY CHẾ HOẠT ĐỘNG',
+		iconUrl: 'https://down-vn.img.susercontent.com/file/5e2ef7014b7a5004ebc7383e115364d5'
+	},
+	{
+		href: '/',
+		title: 'CHÍNH SÁCH VẬN CHUYỂN',
+		iconUrl: 'https://down-vn.img.susercontent.com/file/b334ced59fb923afa9f6cc41be2c2e14'
+	},
+	{
+		href: '/',
+		title: 'CHÍNH SÁCH TRẢ HÀNG VÀ HOÀN TIỀN',
+		iconUrl: 'https://down-vn.img.susercontent.com/file/9055ca43afee3425736586fd115cb197'
+	}
+]
+
+export const navigationFooter = [
+	{
+		title: 'Thời Trang Nam',
+		directory: [
+			{
+				href: '/',
+				name: 'Áo Khoác'
+			},
+			{
+				href: '/',
+				name: 'Áo Vest và Blazer'
+			},
+			{
+				href: '/',
+				name: 'Áo Hoodie, Áo Len & Áo Nỉ'
+			},
+			{
+				href: '/',
+				name: 'Quần Jeans'
+			},
+			{
+				href: '/',
+				name: 'Quần Dài/Quần Âu'
+			},
+			{
+				href: '/',
+				name: 'Quần Short'
+			},
+			{
+				href: '/',
+				name: 'Áo'
+			},
+			{
+				href: '/',
+				name: 'Áo Ba Lỗ'
+			},
+			{
+				href: '/',
+				name: 'Đồ Lót'
+			},
+			{
+				href: '/',
+				name: 'Đồ Ngủ'
+			},
+			{
+				href: '/',
+				name: 'Đồ Bộ'
+			},
+			{
+				href: '/',
+				name: 'Vớ/Tất'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Truyền Thống'
+			},
+			{
+				href: '/',
+				name: 'Đồ Hóa Trang'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Ngành Nghề'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Ngành Nghề'
+			},
+			{
+				href: '/',
+				name: 'Khác'
+			},
+			{
+				href: '/',
+				name: 'Trang Sức Nam'
+			},
+			{
+				href: '/',
+				name: 'Kính Mắt Nam'
+			},
+			{
+				href: '/',
+				name: 'Thắt Lưng Nam'
+			},
+			{
+				href: '/',
+				name: 'Cà vạt & Nơ cổ'
+			},
+			{
+				href: '/',
+				name: 'Phụ Kiện Nam'
+			},
+		]
+	},
+	{
+		title: 'điện thoại và phụ kiện',
+		directory: [
+			{
+				href: '/',
+				name: 'Áo Khoác'
+			},
+			{
+				href: '/',
+				name: 'Áo Vest và Blazer'
+			},
+			{
+				href: '/',
+				name: 'Áo Hoodie, Áo Len & Áo Nỉ'
+			},
+			{
+				href: '/',
+				name: 'Quần Jeans'
+			},
+			{
+				href: '/',
+				name: 'Quần Dài/Quần Âu'
+			},
+			{
+				href: '/',
+				name: 'Quần Short'
+			},
+			{
+				href: '/',
+				name: 'Áo'
+			},
+			{
+				href: '/',
+				name: 'Áo Ba Lỗ'
+			},
+			{
+				href: '/',
+				name: 'Đồ Lót'
+			},
+			{
+				href: '/',
+				name: 'Đồ Ngủ'
+			},
+			{
+				href: '/',
+				name: 'Đồ Bộ'
+			},
+			{
+				href: '/',
+				name: 'Vớ/Tất'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Truyền Thống'
+			},
+			{
+				href: '/',
+				name: 'Đồ Hóa Trang'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Ngành Nghề'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Ngành Nghề'
+			},
+			{
+				href: '/',
+				name: 'Khác'
+			},
+			{
+				href: '/',
+				name: 'Trang Sức Nam'
+			},
+			{
+				href: '/',
+				name: 'Kính Mắt Nam'
+			},
+			{
+				href: '/',
+				name: 'Thắt Lưng Nam'
+			},
+			{
+				href: '/',
+				name: 'Cà vạt & Nơ cổ'
+			},
+			{
+				href: '/',
+				name: 'Phụ Kiện Nam'
+			},
+		]
+	},
+	{
+		title: 'Mẹ và bé',
+		directory: [
+			{
+				href: '/',
+				name: 'Áo Khoác'
+			},
+			{
+				href: '/',
+				name: 'Áo Vest và Blazer'
+			},
+			{
+				href: '/',
+				name: 'Áo Hoodie, Áo Len & Áo Nỉ'
+			},
+			{
+				href: '/',
+				name: 'Quần Jeans'
+			},
+			{
+				href: '/',
+				name: 'Quần Dài/Quần Âu'
+			},
+			{
+				href: '/',
+				name: 'Quần Short'
+			},
+			{
+				href: '/',
+				name: 'Áo'
+			},
+			{
+				href: '/',
+				name: 'Áo Ba Lỗ'
+			},
+			{
+				href: '/',
+				name: 'Đồ Lót'
+			},
+			{
+				href: '/',
+				name: 'Đồ Ngủ'
+			},
+			{
+				href: '/',
+				name: 'Đồ Bộ'
+			},
+			{
+				href: '/',
+				name: 'Vớ/Tất'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Truyền Thống'
+			},
+			{
+				href: '/',
+				name: 'Đồ Hóa Trang'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Ngành Nghề'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Ngành Nghề'
+			},
+			{
+				href: '/',
+				name: 'Khác'
+			},
+			{
+				href: '/',
+				name: 'Trang Sức Nam'
+			},
+			{
+				href: '/',
+				name: 'Kính Mắt Nam'
+			},
+			{
+				href: '/',
+				name: 'Thắt Lưng Nam'
+			},
+			{
+				href: '/',
+				name: 'Cà vạt & Nơ cổ'
+			},
+			{
+				href: '/',
+				name: 'Phụ Kiện Nam'
+			},
+		]
+	},
+	{
+		title: 'Thiết bị điện tử',
+		directory: [
+			{
+				href: '/',
+				name: 'Áo Khoác'
+			},
+			{
+				href: '/',
+				name: 'Áo Vest và Blazer'
+			},
+			{
+				href: '/',
+				name: 'Áo Hoodie, Áo Len & Áo Nỉ'
+			},
+			{
+				href: '/',
+				name: 'Quần Jeans'
+			},
+			{
+				href: '/',
+				name: 'Quần Dài/Quần Âu'
+			},
+			{
+				href: '/',
+				name: 'Quần Short'
+			},
+			{
+				href: '/',
+				name: 'Áo'
+			},
+			{
+				href: '/',
+				name: 'Áo Ba Lỗ'
+			},
+			{
+				href: '/',
+				name: 'Đồ Lót'
+			},
+			{
+				href: '/',
+				name: 'Đồ Ngủ'
+			},
+			{
+				href: '/',
+				name: 'Đồ Bộ'
+			},
+			{
+				href: '/',
+				name: 'Vớ/Tất'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Truyền Thống'
+			},
+			{
+				href: '/',
+				name: 'Đồ Hóa Trang'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Ngành Nghề'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Ngành Nghề'
+			},
+			{
+				href: '/',
+				name: 'Khác'
+			},
+			{
+				href: '/',
+				name: 'Trang Sức Nam'
+			},
+			{
+				href: '/',
+				name: 'Kính Mắt Nam'
+			},
+			{
+				href: '/',
+				name: 'Thắt Lưng Nam'
+			},
+			{
+				href: '/',
+				name: 'Cà vạt & Nơ cổ'
+			},
+			{
+				href: '/',
+				name: 'Phụ Kiện Nam'
+			},
+		]
+	},
+	{
+		title: 'Thời Trang Nữ',
+		directory: [
+			{
+				href: '/',
+				name: 'Áo Khoác'
+			},
+			{
+				href: '/',
+				name: 'Áo Vest và Blazer'
+			},
+			{
+				href: '/',
+				name: 'Áo Hoodie, Áo Len & Áo Nỉ'
+			},
+			{
+				href: '/',
+				name: 'Quần Jeans'
+			},
+			{
+				href: '/',
+				name: 'Quần Dài/Quần Âu'
+			},
+			{
+				href: '/',
+				name: 'Quần Short'
+			},
+			{
+				href: '/',
+				name: 'Áo'
+			},
+			{
+				href: '/',
+				name: 'Áo Ba Lỗ'
+			},
+			{
+				href: '/',
+				name: 'Đồ Lót'
+			},
+			{
+				href: '/',
+				name: 'Đồ Ngủ'
+			},
+			{
+				href: '/',
+				name: 'Đồ Bộ'
+			},
+			{
+				href: '/',
+				name: 'Vớ/Tất'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Truyền Thống'
+			},
+			{
+				href: '/',
+				name: 'Đồ Hóa Trang'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Ngành Nghề'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Ngành Nghề'
+			},
+			{
+				href: '/',
+				name: 'Khác'
+			},
+			{
+				href: '/',
+				name: 'Trang Sức Nam'
+			},
+			{
+				href: '/',
+				name: 'Kính Mắt Nam'
+			},
+			{
+				href: '/',
+				name: 'Thắt Lưng Nam'
+			},
+			{
+				href: '/',
+				name: 'Cà vạt & Nơ cổ'
+			},
+			{
+				href: '/',
+				name: 'Phụ Kiện Nam'
+			},
+		]
+	},
+	{
+		title: 'Thời Trang Nữ',
+		directory: [
+			{
+				href: '/',
+				name: 'Áo Khoác'
+			},
+			{
+				href: '/',
+				name: 'Áo Vest và Blazer'
+			},
+			{
+				href: '/',
+				name: 'Áo Hoodie, Áo Len & Áo Nỉ'
+			},
+			{
+				href: '/',
+				name: 'Quần Jeans'
+			},
+			{
+				href: '/',
+				name: 'Quần Dài/Quần Âu'
+			},
+			{
+				href: '/',
+				name: 'Quần Short'
+			},
+			{
+				href: '/',
+				name: 'Áo'
+			},
+			{
+				href: '/',
+				name: 'Áo Ba Lỗ'
+			},
+			{
+				href: '/',
+				name: 'Đồ Lót'
+			},
+			{
+				href: '/',
+				name: 'Đồ Ngủ'
+			},
+			{
+				href: '/',
+				name: 'Đồ Bộ'
+			},
+			{
+				href: '/',
+				name: 'Vớ/Tất'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Truyền Thống'
+			},
+			{
+				href: '/',
+				name: 'Đồ Hóa Trang'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Ngành Nghề'
+			},
+			{
+				href: '/',
+				name: 'Trang Phục Ngành Nghề'
+			},
+			{
+				href: '/',
+				name: 'Khác'
+			},
+			{
+				href: '/',
+				name: 'Trang Sức Nam'
+			},
+			{
+				href: '/',
+				name: 'Kính Mắt Nam'
+			},
+			{
+				href: '/',
+				name: 'Thắt Lưng Nam'
+			},
+			{
+				href: '/',
+				name: 'Cà vạt & Nơ cổ'
+			},
+			{
+				href: '/',
+				name: 'Phụ Kiện Nam'
+			},
+		]
+	},
+]
+
+export const helpCenter = [
+	{
+		title: 'chăm sóc khách hàng',
+		helpCenterLink: [
+			{
+				name: 'Trung Tâm Trợ Giúp',
+				href: '/'
+			},
+			{
+				name: 'Shopee Blog',
+				href: '/'
+			},
+			{
+				name: 'Shopee Mall',
+				href: '/'
+			},
+			{
+				name: 'Hướng Dẫn Mua Hàng',
+				href: '/'
+			},
+			{
+				name: 'Hướng Dẫn Bán Hàng',
+				href: '/'
+			},
+			{
+				name: 'Thanh Toán',
+				href: '/'
+			},
+			{
+				name: 'Shopee Xu',
+				href: '/'
+			},
+			{
+				name: 'Vận Chuyển',
+				href: '/'
+			},
+			{
+				name: 'Trả Hàng & Hoàn Tiền',
+				href: '/'
+			},
+			{
+				name: 'Chăm Sóc Khách Hàng',
+				href: '/'
+			},
+			{
+				name: 'Chính Sách Bảo Hành',
+				href: '/'
+			},
+		]
+	},
+	{
+		title: 'VỀ SHOPEE',
+		helpCenterLink: [
+			{
+				name: 'Giới Thiệu Về Shopee Việt Nam',
+				href: '/'
+			},
+			{
+				name: 'Tuyển Dụng',
+				href: '/'
+			},
+			{
+				name: 'Điều Khoản Shopee',
+				href: '/'
+			},
+			{
+				name: 'Chính Sách Bảo Mật',
+				href: '/'
+			},
+			{
+				name: 'Chính Hãng',
+				href: '/'
+			},
+			{
+				name: 'Kênh Người Bán',
+				href: '/'
+			},
+			{
+				name: 'Flash Sales',
+				href: '/'
+			},
+			{
+				name: 'Chương Trình Tiếp Thị Liên Kết Shopee',
+				href: '/'
+			},
+			{
+				name: 'Liên Hệ Với Truyền Thông',
+				href: '/'
+			}
+		]
+	}
+]
+
+export const cashs = [
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/d4bbea4570b93bfd5fc652ca82a262a8',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/a0a9062ebe19b45c1ae0506f16af5c16',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/38fd98e55806c3b2e4535c4e4a6c4c08',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/bc2a874caeee705449c164be385b796c',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/2c46b83d84111ddc32cfd3b5995d9281',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/5e3f0bee86058637ff23cfdf2e14ca09',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/9263fa8c83628f5deff55e2a90758b06',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/0217f1d345587aa0a300e69e2195c492',
+		href: '/'
+	}
+]
+
+export const shippings  = [
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-159200e3e365de418aae52b840f24185',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/d10b0ec09f0322f9201a4f3daf378ed2',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/77bf96a871418fbc21cc63dd39fb5f15',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/59270fb2f3fbb7cbc92fca3877edde3f',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/957f4eec32b963115f952835c779cd2c',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/0d349e22ca8d4337d11c9b134cf9fe63',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/3900aefbf52b1c180ba66e5ec91190e5',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/6e3be504f08f88a15a28a9a447d94d3d',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/b8348201b4611fc3315b82765d35fc63',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/0b3014da32de48c03340a4e4154328f6',
+		href: '/'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/vn-50009109-ec3ae587db6309b791b78eb8af6793fd',
+		href: '/'
+	},
+]
+
+export const follows  = [
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/2277b37437aa470fd1c71127c6ff8eb5',
+		href: '/',
+		name: 'facebook'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/5973ebbc642ceee80a504a81203bfb91',
+		href: '/',
+		name: 'instagram'
+	},
+	{
+		imgUrl: 'https://down-vn.img.susercontent.com/file/f4f86f1119712b553992a75493065d9a',
+		href: '/',
+		name: 'LinkedIn'
+	}
+]
+
+export const getTheApp = [
+	{
+		href: '/',
+		imgUrl: 'https://down-vn.img.susercontent.com/file/ad01628e90ddf248076685f73497c163'
+	},
+	{
+		href: '/',
+		imgUrl: 'https://down-vn.img.susercontent.com/file/ae7dced05f7243d0f3171f786e123def'
+	},
+	{
+		href: '/',
+		imgUrl: 'https://down-vn.img.susercontent.com/file/35352374f39bdd03b25e7b83542b2cb0'
+	},
+]
+
+export const countrys = [
+	{
+		name: 'Singapore',
+		href: '/'
+	},
+	{
+		name: 'Indonesia',
+		href: '/'
+	},
+	{
+		name: 'Đài Loan',
+		href: '/'
+	},
+	{
+		name: 'Thái Lan',
+		href: '/'
+	},
+	{
+		name: 'Malaysia',
+		href: '/'
+	},
+	{
+		name: 'Việt Nam',
+		href: '/'
+	},
+	{
+		name: 'Philippines',
+		href: '/'
+	},
+	{
+		name: 'Brazil',
+		href: '/'
+	},
+	{
+		name: 'México',
+		href: '/'
+	},
+	{
+		name: 'Colombia',
+		href: '/'
+	},
+	{
+		name: 'Chile',
+		href: '/'
+	},
+]
